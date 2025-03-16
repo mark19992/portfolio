@@ -9,6 +9,11 @@ html {
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
+img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
 a {
 	text-decoration: none;
 }
