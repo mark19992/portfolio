@@ -120,13 +120,13 @@ p {
 	color: crimson;
 }
 
-.kupal-image {
+#image .kupal-image {
 	width: 450px;
 	height: 450px;
 	object-fit: fill;
 }
 
-.custom-bg-gray{
+#image .custom-bg-gray{
 	background-color: rgba(33, 37, 41, 0.9);
 }
 
